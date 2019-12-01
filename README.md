@@ -1,4 +1,3 @@
-# Personalised-Cancer-Care
 1.1 Business Problem
 Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/
 Data: Memorial Sloan Kettering Cancer Center (MSKCC)
